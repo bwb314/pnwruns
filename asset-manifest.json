@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pnwruns/static/css/main.1ebf80ee.css",
+    "main.js": "/pnwruns/static/js/main.62de32ce.js",
+    "static/media/pnwrunslogo.png": "/pnwruns/static/media/pnwrunslogo.4c5010e27cc24f8456c5.png",
+    "index.html": "/pnwruns/index.html",
+    "main.1ebf80ee.css.map": "/pnwruns/static/css/main.1ebf80ee.css.map",
+    "main.62de32ce.js.map": "/pnwruns/static/js/main.62de32ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ebf80ee.css",
+    "static/js/main.62de32ce.js"
+  ]
+}
