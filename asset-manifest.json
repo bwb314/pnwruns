@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/pnwruns/static/css/main.1ebf80ee.css",
-    "main.js": "/pnwruns/static/js/main.62de32ce.js",
-    "static/media/pnwrunslogo.png": "/pnwruns/static/media/pnwrunslogo.4c5010e27cc24f8456c5.png",
+    "main.css": "/pnwruns/static/css/main.abd64e84.css",
+    "main.js": "/pnwruns/static/js/main.b5570371.js",
     "index.html": "/pnwruns/index.html",
-    "main.1ebf80ee.css.map": "/pnwruns/static/css/main.1ebf80ee.css.map",
-    "main.62de32ce.js.map": "/pnwruns/static/js/main.62de32ce.js.map"
+    "main.abd64e84.css.map": "/pnwruns/static/css/main.abd64e84.css.map",
+    "main.b5570371.js.map": "/pnwruns/static/js/main.b5570371.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ebf80ee.css",
-    "static/js/main.62de32ce.js"
+    "static/css/main.abd64e84.css",
+    "static/js/main.b5570371.js"
   ]
 }
