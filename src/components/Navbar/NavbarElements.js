@@ -7,8 +7,6 @@ background: #004aad;
 height: 10vh;
 display: flex;
 justify-content: space-between;
-padding: 0.2rem calc((100vw - 1000px) / 2);
-z-index: 12;
 `;
 
 export const NavLink = styled(Link)`
